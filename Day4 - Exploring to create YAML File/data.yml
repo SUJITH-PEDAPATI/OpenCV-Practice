@@ -1,0 +1,6 @@
+path:"path/to/dataset/sirectory"
+train:"train directory"
+val:"validation directory"
+test:"test directory"
+
+names:apple
