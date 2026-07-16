@@ -1,0 +1,7 @@
+path: "F:\\D Drive\\Linkedin Learning\\Open CV, Hands on AI\\Basics of Open CV\\Day6 - Model Training on Custom Data\\dataset"
+train: "train"
+val: "val"
+test: "test"
+
+names:
+  0: apple
