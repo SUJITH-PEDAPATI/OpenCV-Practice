@@ -1,7 +1,7 @@
-path: "F:\\D Drive\\Linkedin Learning\\Open CV, Hands on AI\\Basics of Open CV\\Day8 - Training and Inference for an image-segemntation model"
-train: "dataset/train"
-val: "dataset/val"
-test: "dataset/test"
+path: r"F:\\D Drive\\Linkedin Learning\\Open CV, Hands on AI\\Basics of Open CV\\Day8 - Training and Inference for an image-segemntation model"
+train: "train"
+val: "val"
+test: "test"
 
 names:
   0: apple
