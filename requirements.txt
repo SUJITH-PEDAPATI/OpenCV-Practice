@@ -2,3 +2,4 @@ opencv-python
 ultralytics
 label-studio
 split-folders
+streamlit
