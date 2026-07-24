@@ -22,7 +22,9 @@ solution = solutions.ObjectCounter(
     show_in = True,
     show_out = True,
     show = True,
-    region = [(640,0),(640,720)],
+    region = [(640,0),(640,720)], ## THis is the divider which helps to know, how many bottles crossed this line, is considered as In
+    ## and the number of bottles crossing this line in the opposite direction is considered out
+    
     line_width = 4
 )
 
